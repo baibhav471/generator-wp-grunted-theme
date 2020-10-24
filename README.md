@@ -1,6 +1,6 @@
 ![alt tag](https://raw.github.com/danielauener/generator-wp-grunted-theme/master/header.png)
 
-# generator-wp-theme
+# generator-wp-theme   - A GOOD SITE
 
 A WordPress theme [Yeoman](http://yeoman.io) generator, to kickstart WordPress
 theme development with yo, sass and grunt.
